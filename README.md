@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I’m Eshaan Raj
 - 👀 My main area of work is Supervised Machine Learning, Deep Learning ,Computer Vision ,Natural Language Processing ,Neuroscience and Time Series Data. I have worked on a number of projects,   in the same.
-- 🌱Currently, I am working as a Project Engineer at DHSP ISRO in Bangalore, where my project involves developing a cognitive load module. 
+- 🌱Currently, I am working as a Applied Machine Learning Engineer at DHSP ISRO in Bangalore, India where my project involves developing a cognitive load module. 
 - 📫 How to connect with me : www.linkedin.com/in/eshaan-sharma-a03012181. 
 
 
