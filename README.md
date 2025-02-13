@@ -6,7 +6,7 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 - 🔭 I hold a Master's Degree in Computer Science from New York University.
-- 💼 I have 3+ years of experience building and deploying machine learning and deep learning models.
+- 💼 I have 1+ years of experience building and deploying machine learning and deep learning models.
 - 🤖 Experienced in developing Large Language Models (LLMs) and Generative AI solutions.
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
